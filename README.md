@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Need to replace REACT_APP_KEYS:
+
+Get Api keys from: https://developer.edamam.com/
 
 ## Available Scripts
 
